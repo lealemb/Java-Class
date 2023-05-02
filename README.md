@@ -1,1 +1,1 @@
-#  Java-class with different projects
+# Java-class with different projects
