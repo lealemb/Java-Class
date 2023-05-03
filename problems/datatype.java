@@ -1,5 +1,5 @@
 // a Java program to print an int, a double and a char on screen.
-class Ans{
+class typ{
   public static void main(String[] args){
     int x = 10;
     double y = 10.23;
