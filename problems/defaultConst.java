@@ -1,6 +1,6 @@
 class Main {
   int a;
-  boolean b;
+  boolean b; 
   public static void main(String[] args) {
     Main obj = new Main();
     
