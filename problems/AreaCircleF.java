@@ -7,7 +7,7 @@ import java.util.Scanner;
           Scanner input = new Scanner(System.in);
           double r, area;
 
-          System.out.print("Enter area of a circle: ");
+          System.out.print("Enter radius of a circle: ");
           r = input.nextDouble();
           area = Math.PI*r*r;
 
