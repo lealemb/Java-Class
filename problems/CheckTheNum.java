@@ -14,5 +14,5 @@ public class NumberCheck {
         } else {
             System.out.println("The number is zero.");
         }
-    }
+    } 
 }
