@@ -3,6 +3,6 @@ class Main {
     String str1 = "Java";
     String str2 = "Programming";
     System.out.println(str1.concat(str2));
-
+    
   }
 }
