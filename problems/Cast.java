@@ -5,6 +5,5 @@ public class Main {
 
     System.out.println(myInt);     
     System.out.println(myDouble);
-    
   }
 }
